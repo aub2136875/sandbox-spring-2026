@@ -1,6 +1,6 @@
 package org.example.sandbox.trees.binarytrees;
 
-import com.example.Tree;
+import org.example.sandbox.trees.Tree;
 
 import java.util.Iterator;
 
